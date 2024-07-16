@@ -1,5 +1,5 @@
-# Synthetic Deformation Data Generator using BlendTorch
-### Used for generating data in the following paper:
+# [CASE 2024] Visual Deformation Detection Using Soft Material Simulation for Pre-training of Condition Assessment Models
+### Used in the following paper:
 ### [Joel Sol, Amir M. Soufi Enayati, Homayoun Najjaran, "Visual Deformation Detection Using Soft Material Simulation for Pre-training of Condition Assessment Models"](https://arxiv.org/abs/2405.14877)
 
 ## Citation
